@@ -32,13 +32,13 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  ├─────────●●►
  *│🌼HEY,*  `+wish+`
  *│👤Name:* `+Config.BOT_NAME+`
- *│💎Role:* Developer
+ *│💎Developer:* M.R TIMA
  *│Time⌚:* `+time+`
  *│📡Server:* Digital Ocean
  *│📦Frameworks:* Nodejs
  *│☬Working As*
  *│🛡️ `+Config.WORKTYPE+`*
- │ _©️ᴀᴍᴀᴢᴏɴᴇ-ᴛᴇᴇɴᴜ_
+ │ _©️ᴅᴀʀᴋ ǫᴜᴇᴇɴ-ᴍ.ʀ ᴛɪᴍᴀ_
  ╰──────────●●►
 
  ╭──────────●●►
@@ -65,7 +65,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  *│🔍MENU COMMANDS*
  │     ──────────
  │►.ol paper [SELECT Your Paper]
- │►.oldmenu  [  OLD Alexa Menu ]
+ │►.oldmenu  [  OLD Dark Queen Menu ]
  │► .power   [ Power Menu      ]
  │  *power menu is coming soon*
  │
@@ -94,7 +94,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │    ───────
  │    THANK FOR
  │     USING
- │ AMAZONE ALEXA ✉️
+ │ DARK QUEEN ✉️
  ╰───────────●●►
  
 `}) 
