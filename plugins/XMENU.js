@@ -32,13 +32,13 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  ├─────────●●►
  *│🌼HEY,*  `+wish+`
  *│👤Name:* `+Config.BOT_NAME+`
- *│💎Role:* Developer
+ *│💎Developer:* M.R TIMA
  *│Time⌚:* `+time+`
  *│📡Server:* Digital Ocean
  *│📦Frameworks:* Nodejs
  *│☬Working As*
  *│🛡️ `+Config.WORKTYPE+`*
- │ _©️ᴀᴍᴀᴢᴏɴᴇ-ᴛᴇᴇɴᴜ_
+ │ _©️ᴅᴀʀᴋ ǫᴜᴇᴇɴ-ᴍ.ʀ ᴛɪᴍᴀ_
  ╰──────────●●►
 
  ╭──────────●●►
@@ -47,7 +47,6 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │
  │► .`+Config.PANEL_COMMAND+` [All command list]
  │► .alive [Check bot status]
- │► .bot [chat with bot]
  │► .Admin [ for owner ]
  │► .version [check Version 
  │►.update [check Update]
@@ -197,8 +196,8 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │    
  │    THANK FOR
  │     USING
- │ AMAZONE ALEXA ✉️
- │©️CHAMOD-KESHAN
+ │ DARK QUEEN ✉️
+ │©️M.R TIMA
  ╰───────────●●►
  
 `}) 
